@@ -1,5 +1,5 @@
 Меня зовут Дарья Балина
 
-Знаю такие технологии как HTML,CSS,PHP,Bootstrap, JS
+Знаю такие технологии как HTML, CSS, PHP, Bootstrap, JS
 
-В процессе изучения Vue.js, React,js, Node,js
+В процессе изучения Vue.js, React.js, Node.js
