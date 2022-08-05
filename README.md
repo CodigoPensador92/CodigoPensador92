@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @CodigoPensador92
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Меня зовут Дарья Балина
 
-<!---
-CodigoPensador92/CodigoPensador92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Знаю такие технологии как HTML,CSS,PHP,Bootstrap, JS
+
+В процессе изучения Vue.js, React,js, Node,js
